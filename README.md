@@ -3,7 +3,7 @@
 - 💻 Cursando Ciências da computação pelo IFCE -  1° semestre
 - 📚 Focando os estudos na área Front-End 😎
 - 🌱 Atualmente estou estudando javascript e python🐍
-- 📩 Contate-me no email: augustoribeiro32@gmail.com
+- 📩 Contate-me no email: franciscoaugustodev@gmail.com
 
 <div align="center">
   <a href="https://github.com/AugustoRi">

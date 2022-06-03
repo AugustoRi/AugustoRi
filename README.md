@@ -19,6 +19,9 @@
   <img align="center" alt="augusto-TS" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   <img align="center" alt="augusto-RDX" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg">        
 <div> 
+
   ##
+
   ![Snake animation](https://github.com/AugustoRi/AugustoRi/blob/output/github-contribution-grid-snake.svg)
+
 </div>

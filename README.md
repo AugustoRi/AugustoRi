@@ -1,7 +1,7 @@
 ### Oi 👋, meu nome é Augusto, e esse é um breve resumo sobre mim😁
 
-- 💻 Cursando Ciências da computação pelo IFCE
-- 👨‍💻 Atualmente trabalhando como Front-End júnior. 
+- 💻 Cursando Ciência da Computação no IFCE.
+- 👨‍💻 Atualmente trabalhando como Front-End júnior.
 - 📚 Especializando na área Front-End, utilizando Javascript, Typescript e Next.js!
 - 📩 Contate-me no email: franciscoaugustodev@gmail.com
 
